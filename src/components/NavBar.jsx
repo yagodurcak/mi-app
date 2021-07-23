@@ -2,9 +2,7 @@ import "./navBar.css";
 
 function NavBar() {
 
-
     return(
-
         <div>            
             <nav className= "NavBar">
                 <h1 className="nombre">Tienda Online</h1>
@@ -13,7 +11,8 @@ function NavBar() {
                     <a href="">Servicios</a>
                     <a href="">Contacto</a>
                 </div>
-            </nav>
+             
+                </nav>
         </div>
 
         
