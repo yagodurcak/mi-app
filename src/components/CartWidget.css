@@ -1,0 +1,8 @@
+.icono{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
