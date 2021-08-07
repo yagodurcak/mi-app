@@ -28,7 +28,8 @@ function App() {
         </Container>
         
       </Navbar>
-      <ItemListContainer nombre="Tienda"/>
+      <h1>Productos</h1>
+      <ItemListContainer/>
 
       
       

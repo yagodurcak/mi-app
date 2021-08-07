@@ -1,0 +1,14 @@
+
+
+.imagen-carta{
+    height: 300px;
+    width: 250px;
+    object-fit: contain;
+   
+
+}
+
+.carta{
+    height: 400px;
+    width: 300px;
+}
